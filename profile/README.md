@@ -70,3 +70,11 @@ See the README in each repository for setup instructions:
 
 - [makerops-core](https://github.com/makerops-labs/makerops-core#readme)
 - [makerops-edge](https://github.com/makerops-labs/makerops-edge#readme)
+
+---
+
+## Also from the creator
+
+**[Hidden Systems](https://github.com/hidden-systems)** is a free, open educational project that maps the complex systems shaping everyday life — food production, energy, supply chains, financial markets — as interactive graphs. Each topic breaks down how the system works, where the failure points are, and which new approaches are making a real difference.
+
+If you're curious about the larger systems your work operates inside of, or you're looking for places where maker ingenuity can have outsized impact, it's worth a look.
