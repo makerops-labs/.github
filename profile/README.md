@@ -1,8 +1,8 @@
-# OpenMakerOps
+# MakerOps Labs
 
-<img src="../assets/images/makerops-hero.png" alt="OpenMakerOps" width="100%">
+<img src="../assets/images/makerops-hero.png" alt="MakerOps Labs" width="100%">
 
-OpenMakerOps is a collection of free, self-hosted tools and resources built for small-scale makers and manufacturing outfits. The goal is to give small teams the same operational capabilities as larger organizations — without SaaS subscriptions, cloud lock-in, or per-seat pricing.
+MakerOps Labs is a collection of free, self-hosted tools and resources built for small-scale makers and manufacturing outfits. The goal is to give small teams the same operational capabilities as larger organizations — without SaaS subscriptions, cloud lock-in, data exposure, or per-seat pricing.
 
 > This organization is a work in progress. New repositories and integrations are being added as the ecosystem grows.
 
@@ -10,9 +10,9 @@ OpenMakerOps is a collection of free, self-hosted tools and resources built for 
 
 ## Repositories
 
-### [makerops-core](https://github.com/open-makerops/makerops-core)
+### [makerops-core](https://github.com/makerops-labs/makerops-core)
 
-The central operations server. A Docker Compose stack that brings together best-in-class open-source tools for running a small manufacturing business:
+The central operations server. A Docker Compose stack that brings together best-in-class open-source and fair-use tools for running a small manufacturing business:
 
 - **Inventory & production** — parts, BOMs, purchase and sales orders (InvenTree)
 - **Invoicing & accounting** — quotes, billing, expenses (Invoice Ninja)
@@ -24,7 +24,7 @@ The central operations server. A Docker Compose stack that brings together best-
 
 Runs comfortably on a modest home server or workstation (8–16 GB RAM).
 
-### [makerops-edge](https://github.com/open-makerops/makerops-edge)
+### [makerops-edge](https://github.com/makerops-labs/makerops-edge)
 
 A lightweight per-device companion that brings AI-powered assistance to individual team members. Runs locally with no required cloud dependencies and can connect to a shared Core instance for team workflows.
 
@@ -35,7 +35,11 @@ A lightweight per-device companion that brings AI-powered assistance to individu
 
 ### More coming
 
-Additional repositories are in development to expand the ecosystem — including workflow templates, integration sandboxes (e.g. `triggerdotdev_sandbox`), and supporting utilities. Watch this space.
+Additional repositories are in development to expand the ecosystem. Stay informed and help others with the same by:
+
+1. Follow the `MakerOps Labs` Organization to see when we launch new tools.
+2. Star the repositories to help others find the project.
+3. Watch the repositories (Click Watch -> Custom -> Releases) to get notified immediately when we drop a new version.
 
 ---
 
@@ -53,7 +57,7 @@ Small shops, solo makers, and growing workshops that want:
 ## Principles
 
 - **Self-hosted** — your infrastructure, your data
-- **Open-source** — built on community-maintained tools
+- **Fair-use** — built on community-maintained tools for community use
 - **Modular** — enable only what you need
 - **Privacy-first** — no required cloud connections
 - **Maker-focused** — designed for the realities of small-scale production, not enterprise IT
@@ -64,5 +68,5 @@ Small shops, solo makers, and growing workshops that want:
 
 See the README in each repository for setup instructions:
 
-- [makerops-core](https://github.com/open-makerops/makerops-core#readme)
-- [makerops-edge](https://github.com/open-makerops/makerops-edge#readme)
+- [makerops-core](https://github.com/makerops-labs/makerops-core#readme)
+- [makerops-edge](https://github.com/makerops-labs/makerops-edge#readme)
