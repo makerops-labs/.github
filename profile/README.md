@@ -24,6 +24,19 @@ The central operations server. A Docker Compose stack that brings together best-
 
 Runs comfortably on a modest home server or workstation (8–16 GB RAM).
 
+### [makerops-ai](https://github.com/makerops-labs/makerops-ai)
+
+The agentic AI ecosystem layered on top of Core: chat UI, agent workspace, tool server, and the automation that composes Core's local inference into a working assistant.
+
+- **Chat UI** — conversation history, RAG, multi-model support, voice (Open WebUI)
+- **Agent workspace** — research, coding, ops, and audit agents with a web UI (smolagents)
+- **Shared tool server** — MCP tools for the business stack, with human write-approvals (mcp-tools)
+- **Private web search** — self-hosted metasearch backing agent research (SearXNG)
+- **Speech** — local speech-to-text and text-to-speech (speaches, Kokoro)
+- **Self-improvement loop** — the stack researches and proposes changes to itself, gated behind human review
+
+Runs entirely on-premise on Core's Ollama service — no API keys, no data leaving the host, no per-token costs.
+
 ### [makerops-edge](https://github.com/makerops-labs/makerops-edge)
 
 A lightweight per-device companion that brings AI-powered assistance to individual team members. Runs locally with no required cloud dependencies and can connect to a shared Core instance for team workflows.
@@ -69,6 +82,7 @@ Small shops, solo makers, and growing workshops that want:
 See the README in each repository for setup instructions:
 
 - [makerops-core](https://github.com/makerops-labs/makerops-core#readme)
+- [makerops-ai](https://github.com/makerops-labs/makerops-ai#readme)
 - [makerops-edge](https://github.com/makerops-labs/makerops-edge#readme)
 
 ---
