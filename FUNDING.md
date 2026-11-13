@@ -47,7 +47,7 @@ Financial contributions aren't the only way to help sustain this project:
 - **Star the repositories** — visibility helps others find the tools
 - **Share it** — mention it in maker forums, Discord servers, subreddits, or anywhere your community hangs out
 - **File bug reports** — a well-described issue is worth hours of blind debugging
-- **Open PRs** — see [CONTRIBUTING.md](CONTRIBUTING.md) for how
+- **Suggest improvements** — open an issue (outside pull requests are paused for now; see [CONTRIBUTING.md](CONTRIBUTING.md))
 - **Tell us how you're using it** — knowing what's working in real operations helps prioritize what to build next
 
 Thank you for being part of this.

@@ -8,7 +8,7 @@ It is **not** a software project. There is no build system, no dependencies, and
 
 ## Project context and goals
 
-**OpenMakerOps** gives small-scale makers and manufacturing outfits the same operational tooling as larger organizations — without SaaS subscriptions, cloud lock-in, or per-seat pricing. Everything is self-hosted, open-source, and modular.
+**OpenMakerOps** gives small-scale makers and manufacturing outfits the same operational tooling as larger organizations — without SaaS subscriptions, cloud lock-in, or per-seat pricing. Everything is self-hosted, modular, and built on open-source tools; MakerOps' own code is source-available.
 
 The ecosystem currently consists of two sibling repositories (separate repos, not subdirectories here):
 
@@ -21,7 +21,7 @@ More repos are in development (workflow templates, integration sandboxes, utilit
 
 **Core principles to preserve in all copy and decisions:**
 - Self-hosted — user owns their data and infrastructure
-- Open-source — built on community-maintained tools
+- Built on open-source, community-maintained tools (MakerOps' own code is source-available: PolyForm Noncommercial or Internal Use)
 - Modular — run only what you need
 - Privacy-first — no required cloud connections
 - Maker-focused — realities of small-scale production, not enterprise IT
