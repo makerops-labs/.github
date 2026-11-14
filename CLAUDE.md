@@ -1,14 +1,14 @@
-# CLAUDE.md — OpenMakerOps Org Profile
+# CLAUDE.md — MakerOps Labs Org Profile
 
 ## What this repo is
 
-This is the GitHub organization profile repository (`.github`) for the **OpenMakerOps** organization (`open-makerops`). Its sole output is the content rendered at `github.com/open-makerops` — specifically [profile/README.md](profile/README.md), the hero image in [assets/images/](assets/images/), and any future org-level GitHub configuration (issue templates, workflow policies, etc.).
+This is the GitHub organization profile repository (`.github`) for the **MakerOps Labs** organization (`makerops-labs`). Its sole output is the content rendered at `github.com/makerops-labs` — specifically [profile/README.md](profile/README.md), the hero image in [assets/images/](assets/images/), and any future org-level GitHub configuration (issue templates, workflow policies, etc.).
 
 It is **not** a software project. There is no build system, no dependencies, and no tests. Work here is entirely editorial and structural.
 
 ## Project context and goals
 
-**OpenMakerOps** gives small-scale makers and manufacturing outfits the same operational tooling as larger organizations — without SaaS subscriptions, cloud lock-in, or per-seat pricing. Everything is self-hosted, modular, and built on open-source tools; MakerOps' own code is source-available.
+**MakerOps Labs** gives small-scale makers and manufacturing outfits the same operational tooling as larger organizations — without SaaS subscriptions, cloud lock-in, or per-seat pricing. Everything is self-hosted, modular, and built on open-source tools; MakerOps' own code is source-available.
 
 The ecosystem currently consists of two sibling repositories (separate repos, not subdirectories here):
 
@@ -41,7 +41,7 @@ Most tasks in this repo will be one of:
 2. **Structure changes** — adding sections, repos, or links as the ecosystem grows
 3. **Asset guidance** — advising on or generating new visual assets
 4. **GitHub org config** — issue templates, CODEOWNERS, funding.yml, etc.
-4. **Cross-repo context** — understanding how this profile fits the broader ecosystem
+5. **Cross-repo context** — understanding how this profile fits the broader ecosystem
 
 ## Guidelines for staying on track
 
@@ -58,6 +58,9 @@ Most tasks in this repo will be one of:
 makerops-org/
 ├── CLAUDE.md                        # This file
 ├── README.md                        # Brief repo-level description
+├── CONTRIBUTING.md                  # How to help (pull requests currently paused)
+├── FUNDING.md                       # Ways to support the project
+├── LICENSE                          # PolyForm Noncommercial OR Internal Use 1.0.0
 ├── profile/
 │   └── README.md                   # GitHub org landing page (the main artifact)
 └── assets/
@@ -67,7 +70,7 @@ makerops-org/
 
 ## Sibling repos (not in this directory)
 
-- `/home/scher/workspace/makerops/makerops-core` — if it exists locally
-- `/home/scher/workspace/makerops/makerops-edge` — if it exists locally
+- `../makerops-core` (sibling checkout) — if it exists locally
+- `../makerops-edge` (sibling checkout) — if it exists locally
 
 Check whether they're cloned before referencing their internals.
