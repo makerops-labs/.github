@@ -13,6 +13,7 @@ You don't need to write code to make a meaningful contribution.
 Open an issue in the relevant repository. A clear bug report or a well-described feature request is genuinely valuable — it helps prioritize work and surfaces problems that aren't always visible to a solo maintainer.
 
 When reporting a bug, include:
+
 - What you expected to happen
 - What actually happened
 - Steps to reproduce
@@ -36,7 +37,7 @@ Star the repositories, share the project with other makers, mention it in commun
 
 ### 6. Support the Project Financially
 
-Building and maintaining this takes real time and money. If MakerOps Labs saves you a subscription or solves a real problem in your operation, consider supporting it. See [FUNDING.md](FUNDING.md) for options.
+Building and maintaining this takes real time and money. If MakerOps Labs saves you a subscription or solves a real problem in your operation, consider supporting it. Financial options aren't set up yet; [FUNDING.md](FUNDING.md) lists other ways to help in the meantime.
 
 ---
 
